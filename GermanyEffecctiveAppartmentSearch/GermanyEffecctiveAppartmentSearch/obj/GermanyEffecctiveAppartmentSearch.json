@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mihails/Projects/KateLivingPlace/KateLivingPlace/KateLivingPlace.csproj": {}
+  },
+  "projects": {
+    "/Users/mihails/Projects/KateLivingPlace/KateLivingPlace/KateLivingPlace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mihails/Projects/KateLivingPlace/KateLivingPlace/KateLivingPlace.csproj",
+        "projectName": "KateLivingPlace",
+        "projectPath": "/Users/mihails/Projects/KateLivingPlace/KateLivingPlace/KateLivingPlace.csproj",
+        "packagesPath": "/Users/mihails/.nuget/packages/",
+        "outputPath": "/Users/mihails/Projects/KateLivingPlace/KateLivingPlace/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mihails/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[103.0.5060.5300, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{2989C1EC-EB76-4305-8729-3BC7BBE6E5E7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KateLivingPlace/ApartFactory.cs">
+    <Files>
+      <File FileName="KateLivingPlace/Program.cs" Line="19" Column="119" />
+      <File FileName="KateLivingPlace/ImmoweltApart.cs" Line="62" Column="1" />
+      <File FileName="KateLivingPlace/AbstactApart.cs" Line="7" Column="39" />
+      <File FileName="KateLivingPlace/ApartFactory.cs" Line="190" Column="34" />
+      <File FileName="KateLivingPlace/SagaApart.cs" Line="49" Column="20" />
+      <File FileName="KateLivingPlace/Immobilienscout24.cs" Line="32" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KateLivingPlace" expanded="True">
+            <Node name="KateLivingPlace" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ApartFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KateLivingPlace PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
